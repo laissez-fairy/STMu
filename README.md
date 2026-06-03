@@ -1,2 +1,6 @@
-# STMu
-A library and sample binary for digital sound processing on STM32.
+## Building from source
+To build, write a CMake toolchain file and then run
+```
+cmake --fresh --toolchain ./cmake/gcc-arm-none-eabi.cmake .
+cmake --build .
+```
