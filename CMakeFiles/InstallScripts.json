@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/petr/Documents/STMu/cmake_install.cmake",
+		"/Users/petr/Documents/STMu/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

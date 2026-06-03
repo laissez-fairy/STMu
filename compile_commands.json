@@ -1,0 +1,146 @@
+[
+{
+  "directory": "/Users/petr/Documents/STMu",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/blinky_led.dir/Src/main.c.obj -c /Users/petr/Documents/STMu/Src/main.c",
+  "file": "/Users/petr/Documents/STMu/Src/main.c",
+  "output": "CMakeFiles/blinky_led.dir/Src/main.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/blinky_led.dir/Src/stm32f1xx_it.c.obj -c /Users/petr/Documents/STMu/Src/stm32f1xx_it.c",
+  "file": "/Users/petr/Documents/STMu/Src/stm32f1xx_it.c",
+  "output": "CMakeFiles/blinky_led.dir/Src/stm32f1xx_it.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/blinky_led.dir/Src/stm32f1xx_hal_msp.c.obj -c /Users/petr/Documents/STMu/Src/stm32f1xx_hal_msp.c",
+  "file": "/Users/petr/Documents/STMu/Src/stm32f1xx_hal_msp.c",
+  "output": "CMakeFiles/blinky_led.dir/Src/stm32f1xx_hal_msp.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/blinky_led.dir/Src/sysmem.c.obj -c /Users/petr/Documents/STMu/Src/sysmem.c",
+  "file": "/Users/petr/Documents/STMu/Src/sysmem.c",
+  "output": "CMakeFiles/blinky_led.dir/Src/sysmem.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/blinky_led.dir/Src/syscalls.c.obj -c /Users/petr/Documents/STMu/Src/syscalls.c",
+  "file": "/Users/petr/Documents/STMu/Src/syscalls.c",
+  "output": "CMakeFiles/blinky_led.dir/Src/syscalls.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles/blinky_led.dir/startup_stm32f103xe.s.obj -c /Users/petr/Documents/STMu/startup_stm32f103xe.s",
+  "file": "/Users/petr/Documents/STMu/startup_stm32f103xe.s",
+  "output": "CMakeFiles/blinky_led.dir/startup_stm32f103xe.s.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Src/system_stm32f1xx.c.obj -c /Users/petr/Documents/STMu/Src/system_stm32f1xx.c",
+  "file": "/Users/petr/Documents/STMu/Src/system_stm32f1xx.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Src/system_stm32f1xx.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dac.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dac.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dac.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dac.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dac_ex.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dac_ex.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dac_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dac_ex.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
+},
+{
+  "directory": "/Users/petr/Documents/STMu/cmake/stm32cubemx",
+  "command": "/usr/local/bin/arm-none-eabi-gcc -DDEBUG -DSTM32F103xE -DUSE_HAL_DRIVER -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/Users/petr/Documents/STMu/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj -c /Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c",
+  "file": "/Users/petr/Documents/STMu/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
+}
+]

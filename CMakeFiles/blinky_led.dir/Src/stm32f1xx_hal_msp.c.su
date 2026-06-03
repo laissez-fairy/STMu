@@ -1,0 +1,8 @@
+/Users/petr/Documents/STMu/Src/stm32f1xx_hal_msp.c:64:6:HAL_MspInit	24	static
+/Users/petr/Documents/STMu/Src/stm32f1xx_hal_msp.c:91:6:HAL_ADC_MspInit	40	static
+/Users/petr/Documents/STMu/Src/stm32f1xx_hal_msp.c:127:6:HAL_ADC_MspDeInit	16	static
+/Users/petr/Documents/STMu/Src/stm32f1xx_hal_msp.c:157:6:HAL_DAC_MspInit	40	static
+/Users/petr/Documents/STMu/Src/stm32f1xx_hal_msp.c:190:6:HAL_DAC_MspDeInit	16	static
+/Users/petr/Documents/STMu/Src/stm32f1xx_hal_msp.c:218:6:HAL_TIM_Base_MspInit	24	static
+/Users/petr/Documents/STMu/Src/stm32f1xx_hal_msp.c:248:6:HAL_TIM_MspPostInit	40	static
+/Users/petr/Documents/STMu/Src/stm32f1xx_hal_msp.c:278:6:HAL_TIM_Base_MspDeInit	16	static
